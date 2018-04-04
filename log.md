@@ -7,7 +7,7 @@ Thoughts: I still feel like I need to practice more array method examples and cr
 Link to work: [Personal site - wilsonusman.me](http://wilsonusman.me)
 
 
-Day 1: Abril 1, 2018
+Day 1: April 1, 2018
 
 Today's Progress: Continued the 30DJS course where we practiced some flexbox and css transitioning. In the next tutorial we practiced more JS where I got to build a few vanilla JS functions to live search a database using fetch(), RegExp, .filter, .json and some other cool methods.
 
@@ -15,10 +15,22 @@ Thoughts: It's pretty easy to follow along the course, but when you have to thin
 
 Link to work: [U.S Population](http://wilsonusman.me/uspopulation.html)
 
-Day 2: Abril 2, 2018
+Day 2: April 2, 2018
 
 Today's Progress: Built a drawing app using HTML5 Canvas, and created a checklist and built a function that allows you to select multiple items by using the shiftKey.
 
 Thoughts: It's amazing the things you can do with all the tools and resources already available online for you. To put it in perspective you can build a drawing app in just 50 lines of JS, and 30 lines for the multiple select function. 🤯
+
+Link to work: [My Projects](http://wilsonusman.me/projects.html)
+
+Day 3: April 3, 2018
+
+Today's Progress: Styled an HTML5 video player and and programmed all the functions (play, pause, fast forward, reverse, fullscreen, etc...) It's so rewarding to see that all this stuff is possible with a little thinking and practice.
+
+Another part of my time was spent learning some Dev Tools tricks and JavaScript referencing and copying arrays and objects.
+
+Lastly, I put together a key sequence detection AKA KONAMI code web page.
+
+Thoughts: Hmmmm.... Yea JavaScript math is a bit of a challenge. Also I think I need to read more about deep clone and deep copy, and definitely *this* keyword.
 
 Link to work: [My Projects](http://wilsonusman.me/projects.html)
