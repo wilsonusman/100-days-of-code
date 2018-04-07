@@ -39,8 +39,18 @@ Link to work: [My Projects](http://wilsonusman.me/projects.html)
 
 Day 5: April 4, 2018
 
-Today's Progress: Used mousemove to style css a text element as you move your mouse. Nothing crazy, but it did get a little complicated when I had to do some math in JS.
+Today's Progress: Practiced with MouseEvents to add shadows.
 
-Thoughts: For something so simple, it gets pretty complex when you have to do normalization.
+Thoughts: I need to spend more time practicing math algorithms and applying it to JS.
 
-If you want to see the work, check out my projects page.
+Day 6: April 5, 2018
+
+  Today's Progress: Wrote a function to sort an Array and strip articles from the Array.
+
+Thoughts: Although this might be easier to do in jQuery, I like to know what the vanilla JS is doing behind the scenes and have more context.
+
+Day 7: April 6, 2018
+
+  Today's Progress: Used the map, reduce, and from methods to get a node list time information and add it up to get the total Video time, in seconds and hours.
+
+Thoughts: I'm having trouble thinking about how I would do this myself without the tutorial, but I can't seem to have the intuition yet for programming these functions on my own.
