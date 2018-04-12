@@ -54,3 +54,9 @@ Day 7: April 6, 2018
   Today's Progress: Used the map, reduce, and from methods to get a node list time information and add it up to get the total Video time, in seconds and hours.
 
 Thoughts: I'm having trouble thinking about how I would do this myself without the tutorial, but I can't seem to have the intuition yet for programming these functions on my own.
+
+Day 8 - 12, 2018
+
+  Last few days progress: I've obviously been slacking at posting my progress. You can find all the work I've done on the projects page on my site.
+
+Thoughts: I think my chops are beginning to improve. As I practice more and more Javascript it starts becoming a bit easier. I still struggle with problem solving through some of the solutions without any research or tutorial :/
